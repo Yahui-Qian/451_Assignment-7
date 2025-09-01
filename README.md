@@ -81,7 +81,6 @@ pip install pandas numpy matplotlib
 ## Acknowledgments & References
 - Andreas Clenow (2019), *Trading Evolved: Anyone Can Build Killer Trading Strategies in Python*.
 - Gary Antonacci (2014), *Dual Momentum Investing*.
-- MSDS 451 course materials: “Jump‑start—Adding Features to an ML Model.”
 
 ---
 
